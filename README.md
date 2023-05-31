@@ -32,7 +32,7 @@ Power BI Dashboard Visualization:
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
 
-Conclusion:
+#Conclusion:
 
 1) Total Calls was highest for Streaming followed by Technical Support and Payment related. So we need to intimate our client to rectify the bugs if present and need to make interface much easier to understand and ask them to make the content encoded properly to avoid the problems with the streaming server also make payment gateway to accept payments in all modes.
 2) Same measures to be taken in the case of calls not resolved for topics Streaming, Payment Related and Contract Related. Also the SOP need to be perfectly studied by the agents to give the customers a perfect resolution.
