@@ -1,5 +1,5 @@
 # Call-Centre-Analysis-2021-PWC
- Interact with the dashboard (https://www.novypro.com/project/call-centre-analysis-2021-pwc-task-1)
+ Interact with the dashboard (https://www.novypro.com/project/call-centre-analysis-2021-pwc-task-1-power-bi)
 
 - This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
 - Call Centre Analysis aim to provide insight into how best to increase customer satisfaction and reach goals. The objective is to monitor how many calls placed and improve customer satisfaction. 
